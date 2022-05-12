@@ -24,13 +24,13 @@ The project is split into four different PCB designs. Two MX-versions with diffe
 ![alt text](./readme-images/layout_support.jpg "Layout support")
 
 ## MX - North: 
-![alt text](./readme-images/waffling80-MX-north_A2 "MX - North")
+![alt text](./readme-images/waffling80-MX-north_A2.jpg "MX - North")
 ## MX - South:
-![alt text](./readme-images/waffling80-MX-south_A2 "MX - South")
+![alt text](./readme-images/waffling80-MX-south_A2.jpg "MX - South")
 ## ALPS:
-![alt text](./readme-images/waffling80-ALPS-north_A2 "ALPS")
+![alt text](./readme-images/waffling80-ALPS-north_A2.jpg "ALPS")
 ## NMB HiTek:
-![alt text](./readme-images/waffling80-NMB_A2 "HiTek")
+![alt text](./readme-images/waffling80-NMB_A2.jpg "HiTek")
 
 ## For ordering:
 The files needed for manufacturing will be available in releases.
