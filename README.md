@@ -44,6 +44,8 @@ The following files are needed for the PCB Fab:
 - Pick and Place (contains component placement data)
 - Gerber (contains PCB drawings and drill files)
 
+For corrent horizontal USB position using the USB Spacer PCB, the spacer should be manufactured in a 0.6mm thickness.
+
 ## Releases
 Files for manufacturing can be found in releases.
 
