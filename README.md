@@ -1,6 +1,6 @@
 # Waffling80
 
-Waffling60 is a multilayout TKL PCB with support for common ANSI and ISO layouts and split space. The goal is to provide a open source alternative that is compatible with many common TKL projects.
+Waffling80 is a multilayout TKL PCB with support for common ANSI and ISO layouts and split space. The goal is to provide a open source alternative that is compatible with many common TKL projects.
 
 The project is split into four different PCB designs. Two MX-versions with different spacebar rotation, one ALPS-versions with north facing spacebar rotation (MX-style PCB mount stabs) and one HiTek-version. This may be changed.
 
