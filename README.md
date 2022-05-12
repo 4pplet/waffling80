@@ -6,7 +6,7 @@ The project is split into four different PCB designs. Two MX-versions with diffe
 
 ***NOTE: This project is still mostly untested. The MX - North PCB design is tested and verified, but compatibility with different TKL projects is still to be tested. HiTek switch footprints are still untested.***
 
-The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small USB spacer PCB to the NMB releas that can be used if needed. If used, break away the normal USB-port and solder the USB spacer PCB with no extra spacer.
+The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer.
 
 ## Features:
 - QMK & VIA
@@ -33,6 +33,8 @@ The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a nor
 ![alt text](./readme-images/waffling80-ALPS-north_A2.jpg "ALPS")
 ## NMB HiTek:
 ![alt text](./readme-images/waffling80-NMB_A2.jpg "HiTek")
+## NMB HiTek Spacer PCB:
+![alt text](./readme-images/waffling80-NMB-USB.jpg "HiTek")
 
 ## For ordering:
 The files needed for manufacturing will be available in releases.
