@@ -4,7 +4,7 @@ Waffling80 is a multilayout TKL PCB with support for common ANSI and ISO layouts
 
 The project is split into four different PCB designs. Two MX-versions with different spacebar rotation, one ALPS-versions with north facing spacebar rotation (MX-style PCB mount stabs) and one HiTek-version. This may be changed.
 
-***NOTE: This project is still mostly untested. The MX - North PCB design is tested and verified, but compatibility with different TKL projects is still to be tested. HiTek switch footprints are still untested.***
+***NOTE: This project is still mostly untested. The revision A1 MX - North PCB design is tested and verified, but compatibility with different TKL projects is still to be tested. HiTek switch footprints are still untested.***
 
 The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer.
 
