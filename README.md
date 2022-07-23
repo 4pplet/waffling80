@@ -25,7 +25,6 @@ Verified compatibility list: [Link](./COMPAT.md)
 - Make the JST UDB connector non-populated by default. Can cause issues in some cases, better it needs to be added if needed
 - Verify functions of all PCB versions, this project is mostly untested.
 - Test compatibility in cases.
-- Evaluate the break away USB implementation
 
 ## Layout support: 
 ![alt text](./readme-images/layout_support.jpg "Layout support")
@@ -66,6 +65,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 
 ## Revision history:
 - Rev A1: Initial prototype
-- Rev A2: Increased size of the PCB cutouts for o-ring and mounting posts. Moved components that was interfering with screw in stabilizers for backspace.
+- Rev A2: Increased size of the PCB cutouts for o-ring and mounting posts. Moved components that was interfering with screw in stabilizers for backspace. Removed flex cut. Added more layout options/compatibility on NMB-version (support for the common stepped keycaps)
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
