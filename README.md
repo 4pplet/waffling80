@@ -20,9 +20,6 @@ Verified compatibility list: [Link](./COMPAT.md)
 
 ## Todo:
 - Get VIA merged
-- Remove flex cut for better frog half plate support
-- Add 2.54mm USB header in case someone needs to solder cables for custom UDB
-- Make the JST UDB connector non-populated by default. Can cause issues in some cases, better it needs to be added if needed
 - Verify functions of all PCB versions, this project is mostly untested.
 - Test compatibility in cases.
 
