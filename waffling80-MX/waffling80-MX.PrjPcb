@@ -143,23 +143,6 @@ GenerateClassCluster=0
 DocumentUniqueId=WVHHRVQT
 
 [Document7]
-DocumentPath=waffling80-MX-south_2.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TCGWJKRY
-
-[Document8]
 DocumentPath=waffling80-MX-south.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -176,7 +159,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LRYKLIVR
 
-[Document9]
+[Document8]
 DocumentPath=2_waffling80-MX_matrix.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -193,7 +176,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RLWNVGLD
 
-[Document10]
+[Document9]
 DocumentPath=3_waffling80-MX_mcu.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
