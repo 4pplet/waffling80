@@ -193,6 +193,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UMAPLPXN
 
+[Parameter1]
+Name=ProjectTitle
+Value=Waffling80 MX
+
+[Parameter2]
+Name=Revision
+Value=B1
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
