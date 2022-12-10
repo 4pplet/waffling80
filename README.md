@@ -4,23 +4,21 @@ Waffling80 is a multilayout TKL PCB with support for common ANSI and ISO layouts
 
 The project is split into four different PCB designs. Two MX-versions with different spacebar rotation, one ALPS-versions with north facing spacebar rotation (MX-style PCB mount stabs) and one HiTek-version. This may be changed.
 
-***NOTE: This project is still mostly untested. The revision A1 MX - North PCB design is tested and verified, but compatibility with different TKL projects is still to be tested. HiTek switch footprints are still untested.***
+***NOTE: This project is still mostly untested, check compatibility list. *** If you test this project in a case not listed in the compatiblity list. Please let me know here or at mail@4pplet.com
 
-The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer.
+The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer. From my testing, this will not be needed for most builds.
 
 Verified compatibility list: [Link](./COMPAT.md)
 
 ## Features:
 - QMK & VIA
 - USB-C break away
-- ATmega32U2 in QFN and QFP
+- APM or STM32F072
 - RGB-led under/close to caps lock and scroll lock for MX and Alps-versions (requires transparent housings)
 - On ALPS-version: Dual action switch support on ESC and Pause/Break switch positions.
 - Extensive layout support with F12 and F13, ISO and ANSI and more.
 
 ## Todo:
-- Get VIA merged
-- Verify functions of all PCB versions, this project is mostly untested.
 - Test compatibility in cases.
 
 ## Layout support: 
@@ -63,5 +61,6 @@ Releases are split into the following versions of the PCB: (note: not the same a
 ## Revision history:
 - Rev A1: Initial prototype
 - Rev A2: Increased size of the PCB cutouts for o-ring and mounting posts. Moved components that was interfering with screw in stabilizers for backspace. Removed flex cut. Added more layout options/compatibility on NMB-version (support for the common stepped keycaps)
+- Rev B2: Changing MCU to APM or STM32F072
 
 <a href='https://ko-fi.com/4pplet' target='_blank'><img height='35' style='border:0px;height:46px;' src='https://az743702.vo.msecnd.net/cdn/kofi3.png?v=0' border='0' alt='Buy Me a Coffee at ko-fi.com' />
