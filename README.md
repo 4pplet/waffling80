@@ -6,7 +6,7 @@ The project is split into four different PCB designs. Two MX-versions with diffe
 
 ***NOTE: This project is still mostly untested, check compatibility list. *** If you test this project in a case not listed in the compatiblity list. Please let me know here or at mail@4pplet.com
 
-The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer. From my testing, this will not be needed for most builds.
+The distance between plate and PCB for a Hi-Tek board is 0.6mm bigger than a normal MX/Alps PCB. For this reason, I've added a small "USB Spacer PCB" to the NMB release that can be used if needed. If used, break away the normal USB-port and solder the USB Spacer PCB with no extra spacer. From my testing, this will not be needed for most builds and will likely be removed in future revisions.
 
 Verified compatibility list: [Link](./COMPAT.md)
 
