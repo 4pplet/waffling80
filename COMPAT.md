@@ -6,4 +6,4 @@
 - **Monokei KFE CE**. Used PCB: waffling80 MX north rev A1
 - **Lin Montage**. Used PCB: waffling80 MX north rev A2
 - **Bias R2**. Used PCB: waffling80 MX north rev B1
-- **Jane V2**. Used PCB: waffling80 NMB rev B1 + proto plate
+- **Jane V2**. Used PCB: waffling80 NMB rev A2 + proto plate
