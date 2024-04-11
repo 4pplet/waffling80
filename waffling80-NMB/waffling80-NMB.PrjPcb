@@ -159,6 +159,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=MBXHBRXV
 
+[Parameter1]
+Name=ProjectTitle
+Value=Waffling80 NMB
+
+[Parameter2]
+Name=Revision
+Value=B2
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
