@@ -48,7 +48,7 @@ Releases are split into the following versions of the PCB: (note: not the same a
 - Waffling80 MX - North, a MX solder PCB with north facing spacebar stabilizer support
 - Waffling80 MX - South, a MX solder PCB with south facing spacebar stabilizer support
 - Waffling80 ALPS, a ALPS solder PCB with north facing MX-style spacebar stabilizer support
-- Waffling60 HiTek, a solder PCB for HiTek Space Invader switches
+- Waffling80 HiTek, a solder PCB for HiTek Space Invader switches
 
 ## For clarity
 - Revision: When updating the PCB I bump the revision. The revision is specified with a letter and a number. For big changes, the letter is changed (usually also include code changes), for minor changes, only the number is bumped.
