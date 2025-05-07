@@ -16,16 +16,22 @@ Verified compatibility list: [Link](./COMPAT.md)
 - APM or STM32F072
 - RGB-led under/close to caps lock and scroll lock for MX and Alps-versions (requires transparent housings)
 - On ALPS-version: Dual action switch support on ESC and Pause/Break switch positions.
+- On MXHS-version: Capslock indicator led is placed at ESC switch position.
 - Extensive layout support with F12 and F13, ISO and ANSI and more.
 
 ## Todo:
 - Test compatibility in cases.
 
-## Layout support: 
-![alt text](./readme-images/layout_support.jpg "Layout support")
+## Layout support - Solder PCB: 
+![alt text](./readme-images/layout_support.jpg "Layout support - Solder")
+
+## Layout support - Hot swap PCB: 
+![alt text](./readme-images/layout_support_ansi_hs.jpg "Layout support - Hot swap")
 
 ## MX - North: 
 ![alt text](./readme-images/waffling80-MX-north_B2.jpg "MX - North")
+## MXHS - North: 
+![alt text](./readme-images/waffling80-MXHS-north_B2.jpg "MXHS - North")
 ## MX - South:
 ![alt text](./readme-images/waffling80-MX-south_B2.jpg "MX - South")
 ## ALPS:
@@ -46,6 +52,7 @@ Files for manufacturing can be found in releases.
 
 Releases are split into the following versions of the PCB: (note: not the same as configuration)
 - Waffling80 MX - North, a MX solder PCB with north facing spacebar stabilizer support
+- Waffling80 MXHS Ansi - North, a MX hotswap PCB with north facing spacebar stabilizer support
 - Waffling80 MX - South, a MX solder PCB with south facing spacebar stabilizer support
 - Waffling80 ALPS, a ALPS solder PCB with north facing MX-style spacebar stabilizer support
 - Waffling80 HiTek, a solder PCB for HiTek Space Invader switches
