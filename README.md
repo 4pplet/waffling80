@@ -52,7 +52,7 @@ Files for manufacturing can be found in releases.
 
 Releases are split into the following versions of the PCB: (note: not the same as configuration)
 - Waffling80 MX - North, a MX solder PCB with north facing spacebar stabilizer support
-- Waffling80 MXHS Ansi - North, a MX hotswap PCB with north facing spacebar stabilizer support
+- Waffling80 MXHS ANSI - North, a MX hotswap PCB with north facing spacebar stabilizer support
 - Waffling80 MX - South, a MX solder PCB with south facing spacebar stabilizer support
 - Waffling80 ALPS, a ALPS solder PCB with north facing MX-style spacebar stabilizer support
 - Waffling80 HiTek, a solder PCB for HiTek Space Invader switches
