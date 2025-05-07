@@ -7,3 +7,4 @@
 - **Lin Montage**. Used PCB: waffling80 MX north rev A2
 - **Bias R2**. Used PCB: waffling80 MX north rev B1
 - **Merisi Ottantaquattro**. Used PCB: waffling80 NMB rev B1 + proto plate
+- **Gehirn**. Used PCB: Waffling80 MXHS North rev B2
